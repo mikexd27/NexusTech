@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Ubuntu:wght@500&display=swap');
+
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+
+.padded {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.navbar {
+    --bs-bg-opacity: 1;
+    background-color: #CCFFFF;
+}
